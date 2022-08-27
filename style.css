@@ -17,7 +17,7 @@ header{
 
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
     
-    background-image: url(images/donation4.jpg);
+    background-image: url(images/donation5.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
@@ -44,7 +44,7 @@ h1{
 
 .link{
     text-decoration: dimgray;
-    background: #FF5959;
+    background: black;
     padding: 07px 10px;
     border-radius: 5px;
     color: rgba(255, 255, 255, 0.897);
@@ -247,7 +247,7 @@ h3{
     font-size: 36px;
     line-height: 44px;                      
     letter-spacing: 0.5px;
-    color: #FF5959;
+    color: blue;
 
 }
 small{
